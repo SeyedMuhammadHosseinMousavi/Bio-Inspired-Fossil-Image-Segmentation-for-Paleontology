@@ -5,7 +5,7 @@
 % This code could be used as a tool for paleontologist.
 % This is demo version of:
 %------------------------------------------------------------------------
-%% Mousavi, S. M. H. (2018). Bio-Inspired Fossil Image Segmentation for 
+%% Mousavi, S. M. H. (2022). Bio-Inspired Fossil Image Segmentation for 
 %% Paleontology. International Journal of Mechatronics, Electrical and 
 %% Computer Technology (IJMEC), 12(45), 5243-5249.
 %------------------------------------------------------------------------
