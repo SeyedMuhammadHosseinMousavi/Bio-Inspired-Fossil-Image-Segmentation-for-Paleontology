@@ -3,7 +3,6 @@
 - Developed by Seyed Muhammad Hossein Mousavi between Jan to July of 2022.
 - ------------------------------------------------------------------------
 
-- ------------------------------------------------------------------------
 ### Link to the paper:
 - https://www.aeuso.org/includes/files/articles/Vol12_Iss45_5243-5249_Bio-Inspired_Fossil_Image_Segmentat.pdf
 - Or
