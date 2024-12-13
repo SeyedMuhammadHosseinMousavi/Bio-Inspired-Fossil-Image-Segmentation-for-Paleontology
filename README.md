@@ -9,6 +9,7 @@
 - https://www.researchgate.net/profile/Seyed-Mousavi-17/publication/362142902_Bio-Inspired_Fossil_Image_Segmentation_for_Paleontology/links/62d854c025155478d53fddc6/Bio-Inspired-Fossil-Image-Segmentation-for-Paleontology.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9
 ### Please cite:
 - Mousavi, S. "Bio-Inspired Fossil Image Segmentation for Paleontology." International Journal of Computational Engineering Science 12 (2022): 5243-5249.
+- ------------------------------------------------------------------------
 
 #### The code is consisted of following steps:
 - 1. Evolution Strategy (ES) Histogram Equalization:
@@ -29,8 +30,11 @@
 
 </div>
 
+- ------------------------------------------------------------------------
 
 ![f1](https://github.com/user-attachments/assets/87fef562-f607-48ac-9a17-a759b27bf3be)
+- ------------------------------------------------------------------------
+
 ![f11](https://github.com/user-attachments/assets/1a65b0da-40bc-44b8-9515-50968992f84f)
 ![t1](https://github.com/user-attachments/assets/8341c34c-3582-4a44-8787-51caa173b1b7)
 ![f3](https://github.com/user-attachments/assets/aed245a8-c53c-4eb2-98db-5e1c03638d86)
