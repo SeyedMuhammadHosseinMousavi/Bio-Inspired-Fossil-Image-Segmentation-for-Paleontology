@@ -22,4 +22,22 @@
 - Image segmentation is the process of partitioning a digital image into multiple image segments, also known as image regions or image objects.
 - 5. Final Overlay
 - F-Score performance metric evaluates the system VS ground truth.
+![f1](https://github.com/user-attachments/assets/87fef562-f607-48ac-9a17-a759b27bf3be)
+![f11](https://github.com/user-attachments/assets/1a65b0da-40bc-44b8-9515-50968992f84f)
+![t1](https://github.com/user-attachments/assets/8341c34c-3582-4a44-8787-51caa173b1b7)
+![f3](https://github.com/user-attachments/assets/aed245a8-c53c-4eb2-98db-5e1c03638d86)
+![f4](https://github.com/user-attachments/assets/4b0d8302-3669-4633-9215-15dbcee66a00)
+![f6](https://github.com/user-attachments/assets/205846e1-d143-4481-bcbc-1fc9b68bbba7)
+![f7](https://github.com/user-attachments/assets/d88da2e8-3649-432f-bde5-d19c78628c83)
+![f8](https://github.com/user-attachments/assets/ddf9de3f-2197-4e2e-8c61-e413225d9352)
+![9](https://github.com/user-attachments/assets/0bfed6ac-d8db-40b4-ad41-81b644ab53ac)
+![res table](https://github.com/user-attachments/assets/be597e53-43d6-448b-b8b0-92dbdbcb8345)
+
+
+
+
+
+
+
+
 
