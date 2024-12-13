@@ -18,7 +18,7 @@
   3. Quantization, involved in image processing, is a lossy compression technique achieved by compressing a range of values to a single quantum value. When the number of discrete symbols in a given stream is reduced, the stream becomes more compressible.
 - 3. Simulated Annealing (SA) Edge Detection:
 - Edge detection is used to identify points in a digital image with discontinuities, simply to say, sharp changes in the image brightness.
-- 4.Particle Swarm Optimization (PSO) Image Segmentation:
+- 4. Particle Swarm Optimization (PSO) Image Segmentation:
 - Image segmentation is the process of partitioning a digital image into multiple image segments, also known as image regions or image objects.
 - 5. Final Overlay
 - F-Score performance metric evaluates the system VS ground truth.
