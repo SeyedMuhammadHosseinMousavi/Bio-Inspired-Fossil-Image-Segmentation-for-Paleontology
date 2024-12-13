@@ -22,6 +22,15 @@
 - Image segmentation is the process of partitioning a digital image into multiple image segments, also known as image regions or image objects.
 - 5. Final Overlay
 - F-Score performance metric evaluates the system VS ground truth.
+### Abstract:
+
+<div align="justify">
+
+- Dinosaurs are part of our history and investigating about them could provide a vivid picture of our planet in more than a million years ago. However, most of them are extinct but, investigation is possible to be conducted on their remains or fossils. Hopefully, plenty of dinosaur’s fossils are preserved by nature and their images are collected by scientist and made available. Image segmentation applications in this subject is a proper tool for paleontologist. They can use this tool for counting number of bones in a sample and getting some geometrical details about each part. This paper presents, the application of employing multiple bio-inspired or Metaheuristic image processing techniques on some dinosaurs’ fossils images. In order to adjusting the contrast, Evolution Strategy histogram equalization is employed. Also, Cultural Algorithm image quantization is used for quantitating the input image. Simulated Annealing edge detection algorithm, separates each part, precisely. Main step is hybrid Particle Swarm Optimization, Simulated Annealing segmentation, which provides finalsegmented image for investigation. Final acquired results, illustrates more details and rather clear segmented images in comparison with traditional segmentation methods.
+
+</div>
+
+
 ![f1](https://github.com/user-attachments/assets/87fef562-f607-48ac-9a17-a759b27bf3be)
 ![f11](https://github.com/user-attachments/assets/1a65b0da-40bc-44b8-9515-50968992f84f)
 ![t1](https://github.com/user-attachments/assets/8341c34c-3582-4a44-8787-51caa173b1b7)
