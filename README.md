@@ -1,18 +1,17 @@
-# Bio-Inspired-Fossil-Image-Segmentation-for-Paleontology
-%%************************************************************************
-%% Bio-Inspired Fossil Image Segmentation for Paleontology
-%% Developed by Seyed Muhammad Hossein Mousavi between Jan to July of 2022.
-% This code could be used as a tool for paleontologist.
-% This is demo version of:
-%------------------------------------------------------------------------
-%% Mousavi, S. M. H. (2022). Bio-Inspired Fossil Image Segmentation for 
-%% Paleontology. International Journal of Mechatronics, Electrical and 
-%% Computer Technology (IJMEC), 12(45), 5243-5249.
-%------------------------------------------------------------------------
-% So, please cite after use.
-% Paper link:
-% https://www.aeuso.org/includes/files/articles/Vol12_Iss45_5243-5249_Bio-Inspired_Fossil_Image_Segmentat.pdf
-%% The code is consisted of following steps:
+# Bio-Inspired Fossil Image Segmentation for Paleontology
+### ************************************************************************
+- Developed by Seyed Muhammad Hossein Mousavi between Jan to July of 2022.
+- ------------------------------------------------------------------------
+
+- ------------------------------------------------------------------------
+### Link to the paper:
+- https://www.aeuso.org/includes/files/articles/Vol12_Iss45_5243-5249_Bio-Inspired_Fossil_Image_Segmentat.pdf
+- Or
+- https://www.researchgate.net/profile/Seyed-Mousavi-17/publication/362142902_Bio-Inspired_Fossil_Image_Segmentation_for_Paleontology/links/62d854c025155478d53fddc6/Bio-Inspired-Fossil-Image-Segmentation-for-Paleontology.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9
+### Please cite:
+- Mousavi, S. "Bio-Inspired Fossil Image Segmentation for Paleontology." International Journal of Computational Engineering Science 12 (2022): 5243-5249.
+
+#### The code is consisted of following steps:
 % 1.Evolution Strategy (ES) Histogram Equalization
 % Histogram equalization is a method in image processing of
 % contrast adjustment using the image's histogram
